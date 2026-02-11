@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" role="img" aria-label="Technologie Platzhalter">
+  <rect width="720" height="440" rx="22" fill="#10233b"/>
+  <circle cx="170" cy="220" r="95" fill="#d61f2c" opacity="0.9"/>
+  <circle cx="360" cy="220" r="95" fill="#2e5f95" opacity="0.95"/>
+  <circle cx="550" cy="220" r="95" fill="#7ba4d1" opacity="0.95"/>
+  <text x="360" y="390" text-anchor="middle" font-family="Inter, Arial" font-size="26" fill="#ffffff">AGM · EFB · Premium Technologie</text>
+</svg>

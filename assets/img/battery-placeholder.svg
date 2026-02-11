@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="520" viewBox="0 0 640 520" role="img" aria-label="Batterie Platzhalter">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a2e4b"/>
+      <stop offset="1" stop-color="#2f5b8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="520" rx="30" fill="url(#g)"/>
+  <rect x="150" y="150" width="340" height="220" rx="20" fill="#d61f2c"/>
+  <rect x="180" y="120" width="90" height="35" rx="8" fill="#f6f8fb"/>
+  <rect x="370" y="120" width="90" height="35" rx="8" fill="#f6f8fb"/>
+  <text x="320" y="280" text-anchor="middle" font-family="Inter, Arial" font-size="44" font-weight="800" fill="#fff">MOLL</text>
+  <text x="320" y="318" text-anchor="middle" font-family="Inter, Arial" font-size="18" fill="#fbeef0">Bild folgt</text>
+</svg>
