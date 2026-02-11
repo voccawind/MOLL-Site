@@ -1,0 +1,10 @@
+title: MOLL Batterien
+email: info@moll-batterien.de
+description: >-
+  Moderne Jekyll-Neuauflage von www.moll-batterien.de mit Fokus auf UI/UX,
+  klarer Struktur und emotionaler Produktinszenierung.
+baseurl: ""
+url: ""
+lang: de
+markdown: kramdown
+plugins: []
